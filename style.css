@@ -26,9 +26,9 @@ body {
 }
 
 .logo {
-    background-image: url(download/amazon);
+   /* background-image: url(download/amazon.jpg);*/
     background-size: cover;
-    height: 50px;
+    height: 80px;
     width: 100px;
 
 }
