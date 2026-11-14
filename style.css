@@ -26,7 +26,7 @@ body {
 }
 
 .logo {
-    background-image: url(Amazon-Symbol.jpg);
+    background-image: url(download/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -201,7 +201,7 @@ body {
 .hero-section {
     height: 400px;
     width: 1550px;
-    background-image: url(Downloads/herosection.jpg);
+    background-image: url(download/hero.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -261,7 +261,7 @@ body {
 }
 
 .box2 {
-    background-image: url(game.jpg);
+    background-image: url(download/game.jpg);
     background-size: cover;
     height: 400px;
     width: 350px;
@@ -318,7 +318,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(jeans.jpg);
+    background-image: url(download/jeans.jpg);
     background-size: cover;
 
 }
@@ -329,7 +329,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(tops.jpg);
+    background-image: url(download/tops.jpg);
     background-size: cover;
 }
 
@@ -375,7 +375,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(dresses.jpg);
+    background-image: url(download/dresses.jpg);
     background-size: cover;
 
 }
@@ -386,7 +386,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(shoses.jpg);
+    background-image: url(download/shoses.jpg);
     background-size: cover;
 }
 
@@ -459,7 +459,7 @@ body {
 }
 
 .box11 {
-    background-image: url(school.jpg);
+    background-image: url(download/school.jpg);
     background-size: cover;
     height: 370px;
     width: 350px;
@@ -517,7 +517,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(kitchen.jpg);
+    background-image: url(download/kitchen.jpg);
     background-size: cover;
 
 }
@@ -528,7 +528,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(home\ improvement.jpg);
+    background-image: url(download/homeimprovement.jpg);
     background-size: cover;
 }
 
@@ -574,7 +574,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(decor.jpg);
+    background-image: url(download/decor.jpg);
     background-size: cover;
 
 }
@@ -585,7 +585,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(bedding\ and\ bath.jpg);
+    background-image: url(download/beddingandbath.jpg);
     background-size: cover;
 }
 
@@ -669,7 +669,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(baskets.jpg);
+    background-image: url(download/baskets.jpg);
     background-size: cover;
 
 }
@@ -680,7 +680,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(hardware.jpg);
+    background-image: url(download/hardware.jpg);
     background-size: cover;
 }
 
@@ -726,7 +726,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(acentfurniture.jpg);
+    background-image: url(download/acentfurniture.jpg);
     background-size: cover;
 
 }
@@ -737,7 +737,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(wallpapaer.jpg);
+    background-image: url(download/wallpapaer.jpg);
     background-size: cover;
 }
 
@@ -821,7 +821,7 @@ body {
     width: 150px;
     background-color: #0f1111;
     margin-left: 30px;
-    background-image: url(dress.jpg);
+    background-image: url(download/dress.jpg);
     background-size: cover;
 
 }
@@ -832,7 +832,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(knits.jpg);
+    background-image: url(download/knits.jpg);
     background-size: cover;
 }
 
@@ -889,7 +889,7 @@ body {
     background-color: blue;
     position: absolute;
     margin-left: 220px;
-    background-image: url(jewellery.jpg);
+    background-image: url(download/jewellery.jpg);
     background-size: cover;
 }
 
@@ -967,49 +967,49 @@ body {
 }
 
 .sub-box34 {
-    background-image: url('bottle.jpg');
+    background-image: url('download/bottle.jpg');
     background-size: cover;
     height: 350px;
     width: 150px;
 }
 
 .sub-box35 {
-    background-image: url('doubles.jpg');
+    background-image: url('download/doubles.jpg');
     background-size: cover;
     height: 350px;
     width: 300px;
 }
 
 .sub-box36 {
-    background-image: url('blue\ bottle.jpg');
+    background-image: url('download/blue bottle.jpg');
     background-size: cover;
     height: 350px;
     width: 150px;
 }
 
 .sub-box37 {
-    background-image: url('pocketsent.jpg');
+    background-image: url('download/pocketsent.jpg');
     background-size: cover;
     height: 350px;
     width: 200px;
 }
 
 .sub-box38 {
-    background-image: url('mobileglass.jpg');
+    background-image: url('download/mobileglass.jpg');
     background-size: cover;
     height: 350px;
     width: 300px;
 }
 
 .sub-box39 {
-    background-image: url('handband.jpg');
+    background-image: url('download/handband.jpg');
     background-size: cover;
     height: 350px;
     width: 250px;
 }
 
 .sub-box40 {
-    background-image: url('neck.jpg');
+    background-image: url('download/neck.jpg');
     background-size: cover;
     height: 350px;
     width: 150px;
